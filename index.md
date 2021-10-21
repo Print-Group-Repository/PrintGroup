@@ -5,15 +5,29 @@ The Print Group is based in Auckland, in Aotearoa. This is a brief summary of ou
 ## Projects:
 
 ### Rakeiora
+People involved: Ben C
 
 ### Network
 
 ### The Germline Project
+People involved:
+  - Polona, Rachna, Pascalene, Vicky, Peter
+
+Brief summary:
+
 
 ### SiNets
+People involved:
+  - Ana, Peter
 
+### MyTardis
+People involved:
+  - Nick, Daniel, Vicky, Rachna, Tamsin (sort of)
+  - From CeR: Chris Seal, Mike, Noel
 
-
+Brief summary:
+Work with CeR to develop/use MyTardis to access our raw and analysed data in a secure, permission controlled way
+Be able to push data onto NeSI and resmed
 
 ### Support or Contact
 
