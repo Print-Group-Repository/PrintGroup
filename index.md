@@ -25,7 +25,7 @@ People involved:
 
 ### MyTardis
 People involved:
-  - Nick, Daniel, Vicky, Rachna, Tamsin (sort of)
+  - Nick, Daniel, Vicky, Rachna, Tamsin
   - From CeR: Chris Seal, Mike, Noel
 
 Brief summary:
